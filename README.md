@@ -5,7 +5,7 @@ Steps to install and set up ROS noetic :
 First, we need to install VirtualBox in order to install Linux. You can download VirtualBox from the following link: https://www.virtualbox.org/wiki/Downloads
 
 
-![Screenshot 2024-07-10 224246](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/1169c580-df77-4a3f-974e-b20c5043f78e)
+![vb](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/80197c3d-c35f-4087-9b90-d1a8c91f3850)
 
 
 make sure to select the correct packages for your computer.
