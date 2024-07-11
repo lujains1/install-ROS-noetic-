@@ -12,30 +12,28 @@ First, we need to install VirtualBox in order to install Linux. You can download
 make sure to select the correct platform package for your computer.<br><br><br><br>
 
 open the VirtualBox and click on New to create new virtual machine<br><br>
-![new](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/c06b57e4-d2d6-4bca-af01-acc39692561b)
+![new](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/c06b57e4-d2d6-4bca-af01-acc39692561b)<br><br>
 
-
+Here, I changed the name to ROS and put the Ubuntu Mate.iso into the ISO image.
+You can download ubuntu mate 20.04 from the following link: https://releases.ubuntu-mate.org/20.04/amd64/ 
+<br><br>
 ![ros1](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/96a7e705-f922-4ecb-ba97-882d1fdcef0c)
 
 
-Here, I changed the name to ROS and put the Ubuntu Mate.iso into the ISO image.
-You can download ubuntu mate 20.04 from the following link: https://releases.ubuntu-mate.org/20.04/amd64/
-
+<br><br>Adjust the memory, processors, and hard disk settings as required.<br><br>
 
 
 ![ros2](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/d5e8112a-e953-4cba-b3e7-ad9bacebd25e)
 ![ros3](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/dccfb396-48a7-41a1-a8df-e52473405aaa)
-
-
-Adjust the memory, processors, and hard disk settings as required.
-
+<br><br><br>
+Here, a summary of the selected configurations is displayed. If you don't want to make any changes, click finish.<br><br>
 ![ros4](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/d78bba20-732e-45e2-80ff-a6e6197033d2)
 
-Here, a summary of the selected configurations is displayed. If you don't want to make any changes, click finish.
+
 
 ## Install ROS noetic
 After installing Ubuntu MATE on VirtualBox, ROS noetic must be installed using commands in the terminal.
-Open the following link and choose Ubuntu: 
+Open the following link and choose Ubuntu: <br><br>
 
 http://wiki.ros.org/noetic/Installation
 
@@ -52,7 +50,7 @@ then execute all the commands in the terminal in order to install ROS:
 
 
 
-To lunch the ROS master run the following command: 
+<br><br>To lunch the ROS master run the following command:<br><br>
 
 
 ![Screenshot 2024-07-05 212855](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/0a8a48aa-ec0b-4a60-a029-b685187b10eb)
