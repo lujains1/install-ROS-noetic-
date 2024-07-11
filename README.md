@@ -9,9 +9,10 @@ First, we need to install VirtualBox in order to install Linux. You can download
 
 ![vb](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/80197c3d-c35f-4087-9b90-d1a8c91f3850)
 
-make sure to select the correct platform package for your computer.
+make sure to select the correct platform package for your computer.<br><br><br><br>
 
-
+open the VirtualBox and click on New to create new virtual machine<br><br>
+![new](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/c06b57e4-d2d6-4bca-af01-acc39692561b)
 
 
 ![ros1](https://github.com/lujains1/install-ROS-noetic-/assets/136511091/96a7e705-f922-4ecb-ba97-882d1fdcef0c)
