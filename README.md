@@ -1,6 +1,6 @@
 # install-ROS-noetic-
 
-Steps to install and set up ROS noetic :
+Steps to install and setup ROS noetic :
 
 ## VirtualBox and Ubuntu mate
 
